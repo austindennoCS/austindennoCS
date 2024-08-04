@@ -4,7 +4,7 @@
 
 - <b>Incident Response</b>
   - [Incident Response](https://github.com/austindennoCS/IncidentResponseDoc)
-- <b>Security & System Optimization</b>
+- <b>Hardware and Software Performance and Security Support</b>
   - [Hardware and Software Performance and Security Support](https://github.com/austindennoCS/SecuritySystemOptimization)
 - <b>Cybersecurity Principles Training</b>
   - [Cybersecurity Principles Training](https://github.com/austindennoCS/CybersecurityPrinciplesTraining)
