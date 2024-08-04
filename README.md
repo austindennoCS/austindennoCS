@@ -7,7 +7,7 @@
 - <b>Hardware and Software Performance and Security Support</b>
   - [Hardware and Software Performance and Security Support](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
 
-- <b>Cybersecurity Principles Training</b>-
+- <b>Cybersecurity Principles Training</b>
   - [Cybersecurity Principles Training](https://github.com/austindennoCS/CybersecurityPrinciplesTraining)
 - <b>Network Troubleshooting Using OSI and TCP/IP Models</b>
   - [Network Troubleshooting Using OSI and TCP/IP Models](https://github.com/austindennoCS/NetworkTroubleshooting)
