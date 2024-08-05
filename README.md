@@ -26,6 +26,8 @@
   - [Password Strength Checker](https://github.com/austindennoCS/password-strength-checker)
 - <b>Interactive SIEM Dashboard</b>
   - [Interactive SIEM Dashboard](https://github.com/austindennoCS/interactive-siem-dashboard)
+- <b>File Integrity Monitor</b>
+  - [File Integrity Monitor](https://github.com/austindennoCS/file-integrity-monitor)
 <h2>Connect with me: </h2>  
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
