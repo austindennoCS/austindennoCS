@@ -29,7 +29,7 @@
   - [File Integrity Monitor](https://github.com/austindennoCS/file-integrity-monitor)
  
       <h2>Skills</h2>
-      - <b>Cloud</b>
+- <b>Cloud</b>
   - [Cloud](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
 - <b>Visualization</b>
   - [Visualization](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
