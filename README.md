@@ -27,6 +27,10 @@
   - [Interactive SIEM Dashboard](https://github.com/austindennoCS/interactive-siem-dashboard)
 - <b>File Integrity Monitor</b>
   - [File Integrity Monitor](https://github.com/austindennoCS/file-integrity-monitor)
+- <b>Automatic Backup</b>
+  - [Automatic Backup](https://github.com/austindennoCS/automatic-backup)
+- <b>System Health Monitor</b>
+  - [System Health Monitor](https://github.com/austindennoCS/system-health-monitor)
 
       
 <h2>Connect with me: </h2>  
