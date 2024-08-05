@@ -27,12 +27,7 @@
   - [Interactive SIEM Dashboard](https://github.com/austindennoCS/interactive-siem-dashboard)
 - <b>File Integrity Monitor</b>
   - [File Integrity Monitor](https://github.com/austindennoCS/file-integrity-monitor)
- 
-      <h2>Skills</h2>
-- <b>Cloud</b>
-  - [Cloud](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
-- <b>Visualization</b>
-  - [Visualization](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
+
       
 <h2>Connect with me: </h2>  
 
