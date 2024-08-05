@@ -16,10 +16,6 @@
   - [Educational Cybersecurity Project Using Azure Sentinel](https://github.com/austindennoCS/EducationalCybersecurityProjectUsingAzureSentinel)
 - <b>Home Lab Active Directory</b>
   - [Home Lab Active Directory](https://github.com/austindennoCS/Home-Lab-Active-Directory)
-- <b>Cloud</b>
-  - [Cloud](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
-- <b>Visualization</b>
-  - [Visualization](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
   <h2>Coding Projects</h2>
 - <b>Advanced Secure Password Generator with Bash and PowerShell</b>
   - [Advanced Secure Password Generator with Bash and PowerShell](https://github.com/austindennoCS/AdvancedSecurePasswordGeneratorBashPowerShell)
@@ -31,6 +27,13 @@
   - [Interactive SIEM Dashboard](https://github.com/austindennoCS/interactive-siem-dashboard)
 - <b>File Integrity Monitor</b>
   - [File Integrity Monitor](https://github.com/austindennoCS/file-integrity-monitor)
+ 
+      <h2>Skills</h2>
+      - <b>Cloud</b>
+  - [Cloud](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
+- <b>Visualization</b>
+  - [Visualization](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
+      
 <h2>Connect with me: </h2>  
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
