@@ -28,7 +28,7 @@
 - <b>File Integrity Monitor</b>
   - [File Integrity Monitor](https://github.com/austindennoCS/file-integrity-monitor)
 - <b>Initial Incident Response with Microsoft Defender</b>
-  - [Initial Incident Response with Microsoft Defender](https://github.com/austindennoCS/system-health-monitor)
+  - [Initial Incident Response with Microsoft Defender](https://github.com/austindennoCS/initial-incident-response-microsoft-def)
 - <b>Automatic Backup</b>
   - [Automatic Backup](https://github.com/austindennoCS/automatic-backup)
 - <b>System Health Monitor</b>
