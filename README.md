@@ -20,8 +20,6 @@
   <h2>Coding Projects</h2>
 - <b>Advanced Secure Password Generator with Bash and PowerShell</b>
   - [Advanced Secure Password Generator with Bash and PowerShell](https://github.com/austindennoCS/AdvancedSecurePasswordGeneratorBashPowerShell)
-- <b>Python Intrusion Detection System</b>
-  - [Python Intrusion Detection System](https://github.com/austindennoCS/PythonIntrusionDetectionSystem)
 - <b>Management System in C++</b>
   - [Management System in C++](https://github.com/austindennoCS/Management-System-C-plusplus)
 
