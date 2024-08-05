@@ -23,7 +23,7 @@
 - <b>Python Intrusion Detection System</b>
   - [Python Intrusion Detection System](https://github.com/austindennoCS/PythonIntrusionDetectionSystem)
 - <b>Management System in C++</b>
-  - [Management System in C++](https://github.com/austindennoCS/ManagementSysteminC-)
+  - [Management System in C++](https://github.com/austindennoCS/Management-System-C-plusplus)
 
 
 <h2>Connect with me: </h2>  
