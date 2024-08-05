@@ -6,7 +6,6 @@
   - [Incident Response](https://github.com/austindennoCS/IncidentResponseDoc)
 - <b>Hardware and Software Performance and Security Support</b>
   - [Hardware and Software Performance and Security Support](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
-
 - <b>Cybersecurity Principles Training</b>
   - [Cybersecurity Principles Training](https://github.com/austindennoCS/CybersecurityPrinciplesTraining)
 - <b>Network Troubleshooting Using OSI and TCP/IP Models</b>
@@ -17,6 +16,10 @@
   - [Educational Cybersecurity Project Using Azure Sentinel](https://github.com/austindennoCS/EducationalCybersecurityProjectUsingAzureSentinel)
 - <b>Home Lab Active Directory</b>
   - [Home Lab Active Directory](https://github.com/austindennoCS/Home-Lab-Active-Directory)
+- <b>Cloud</b>
+  - [Cloud](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
+- <b>Visualization</b>
+  - [Visualization](https://github.com/austindennoCS/HardwareAndSoftwarePerformanceAndSecuritySupport)
   <h2>Coding Projects</h2>
 - <b>Advanced Secure Password Generator with Bash and PowerShell</b>
   - [Advanced Secure Password Generator with Bash and PowerShell](https://github.com/austindennoCS/AdvancedSecurePasswordGeneratorBashPowerShell)
