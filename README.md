@@ -27,8 +27,6 @@
   - [Initial Incident Response with Microsoft Defender](https://github.com/austindennoCS/initial-incident-response-microsoft-def)
 - <b>File Integrity Monitor</b>
   - [File Integrity Monitor](https://github.com/austindennoCS/file-integrity-monitor)
-- <b>Password Manager Web Application</b>
-  - [Password Manager Web Application](https://github.com/austindennoCS/password-manager-web-app)
 - <b>Automatic Backup</b>
   - [Automatic Backup](https://github.com/austindennoCS/automatic-backup)
 - <b>System Health Monitor</b>
