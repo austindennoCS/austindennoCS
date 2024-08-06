@@ -17,8 +17,6 @@
 - <b>Cybersecurity Principles Training</b>
   - [Cybersecurity Principles Training](https://github.com/austindennoCS/CybersecurityPrinciplesTraining)
   <h2>Coding Projects</h2>
-- <b>Interactive SIEM Dashboard</b>
-  - [Interactive SIEM Dashboard](https://github.com/austindennoCS/interactive-siem-dashboard)
 - <b>Management System in C++</b>
   - [Management System in C++](https://github.com/austindennoCS/Management-System-C-plusplus)
 - <b>Advanced Secure Password Generator with Bash and PowerShell</b>
