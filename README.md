@@ -4,7 +4,7 @@
 
   - [Secure Linux Home Lab](https://github.com/austindennoCS)
   
-  - [SIEM Project](https://github.com/austindennoCS)
+  - [SIEM Project Microsoft Azure](https://github.com/austindennoCS)
   
   - [Windows Active Directory Home Lab](https://github.com/austindennoCS)
     
