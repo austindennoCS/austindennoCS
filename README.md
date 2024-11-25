@@ -10,6 +10,8 @@
     
   - [TryHackMe and CTF Challenges](https://github.com/austindennoCS)
 
+  - [Windows Defender, Firewall, Browser Hardening](https://github.com/austindennoCS)
+
 <h2>Networking Projects</h2>
 
   - [Networking Project 1](https://github.com/austindennoCS)
