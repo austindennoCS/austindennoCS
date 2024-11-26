@@ -20,7 +20,7 @@
     
 <h2>Programming Projects</h2>
 
-  - [Ethical Python Dictionary Attack Cracker](https://github.com/austindennoCS)
+  - [Python Ethical Dictionary Attack Cracker](https://github.com/austindennoCS)
   
   - [C++ Student Management System](https://github.com/austindennoCS)
 
