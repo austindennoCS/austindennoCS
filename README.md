@@ -7,15 +7,8 @@
   - [SIEM Project Microsoft Azure](https://github.com/austindennoCS)
   
   - [Windows Active Directory Home Lab](https://github.com/austindennoCS)
-    
 
-<h2>Networking Projects</h2>
-
-  - [Networking Project 1](https://github.com/austindennoCS)
-  
-  - [Networking Project 2](https://github.com/austindennoCS)
-  
-  - [Networking Project 3](https://github.com/austindennoCS)
+  - [Networking Projects](https://github.com/austindennoCS)
     
 <h2>Programming Projects</h2>
 
