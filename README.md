@@ -8,7 +8,6 @@
   
   - [Windows Active Directory Home Lab](https://github.com/austindennoCS)
     
-  - [TryHackMe and CTF Challenges](https://github.com/austindennoCS)
 
 <h2>Networking Projects</h2>
 
