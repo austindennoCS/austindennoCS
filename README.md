@@ -3,23 +3,19 @@
 <h2>Cybersecurity Projects</h2>
 
   - [Secure Linux Home Lab](https://github.com/austindennoCS)
+
+  - [Active Directory Home Lab](https://github.com/austindennoCS)
   
   - [SIEM Project Microsoft Azure](https://github.com/austindennoCS)
-  
-  - [Windows Active Directory Home Lab](https://github.com/austindennoCS)
 
-  - [Networking Projects](https://github.com/austindennoCS)
-    
+  - [Nessus VM Vulnerability Lab](https://github.com/austindennoCS)
+
 <h2>Programming Projects</h2>
 
   - [Python Ethical Dictionary Attack Cracker](https://github.com/austindennoCS)
   
   - [C++ Student Management System](https://github.com/austindennoCS)
 
-  - [Bash Project](https://github.com/austindennoCS)
-
-  - [PowerShell Project](https://github.com/austindennoCS)
-  
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="austindennoCS | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
