@@ -5,16 +5,12 @@
   - [Secure Linux Home Lab](https://github.com/austindennoCS)
 
   - [Active Directory Home Lab](https://github.com/austindennoCS)
-  
-  - [SIEM Project Microsoft Azure](https://github.com/austindennoCS)
-
-  - [Nessus VM Vulnerability Lab](https://github.com/austindennoCS)
 
 <h2>Programming Projects</h2>
 
-  - [Python Ethical Dictionary Attack Cracker](https://github.com/austindennoCS)
+  - [File Encryption and Decryption Tool (Python)](https://github.com/austindennoCS)
   
-  - [C++ Student Management System](https://github.com/austindennoCS)
+  - [Student Management System (C++)](https://github.com/austindennoCS)
 
 <h2>Connect with me:</h2>
 
