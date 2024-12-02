@@ -12,7 +12,7 @@
 
   - [File Encryption and Decryption Tool (Python)](https://github.com/austindennoCS)
   
-  - [Student Management System (C++)](https://github.com/austindennoCS)
+  - [User Management System (C++)](https://github.com/austindennoCS)
 
 <h2>Connect with me:</h2>
 
