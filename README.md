@@ -2,9 +2,9 @@
 
 <h2>Cybersecurity Projects</h2>
 
-  - [Secure Linux Home Lab](https://github.com/austindennoCS)
+  - [Secure Linux Server](https://github.com/austindennoCS)
 
-  - [Active Directory Home Lab](https://github.com/austindennoCS)
+  - [Windows 10 Active Directory Home Lab](https://github.com/austindennoCS)
 
   - [Network Traffic Analysis](https://github.com/austindennoCS)
 
